@@ -62,7 +62,8 @@ a collection of contingency design methods
 
 
 # Collaboration with IAM Team
-The cards below were designed by students in the Interactive Arts & Media department at Columbia College Chicago.
+The cards below were designed by students
+"Kayla Gayton":https://www.linkedin.com/in/kayla-gayton/ and "Lourdes Serrano":http://www.linkedin.com/in/lourdes-serrano-563871197in from Interactive Arts & Media department at Columbia College Chicago. 
 
 1. What does the community you are designing this product for look like after 10 years of the product’s development? (impact)
 
